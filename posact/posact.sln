@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "posact", "posact\posact.csproj", "{13809528-C668-4757-984A-F1F482CE1071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13809528-C668-4757-984A-F1F482CE1071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13809528-C668-4757-984A-F1F482CE1071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13809528-C668-4757-984A-F1F482CE1071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13809528-C668-4757-984A-F1F482CE1071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB7454C-3C5B-4E4D-BEA0-03DF94D29273}
+	EndGlobalSection
+EndGlobal

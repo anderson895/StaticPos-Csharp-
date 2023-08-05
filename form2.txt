@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Xml.Linq;
+
+namespace POS
+{
+    public partial class Form2 : Form
+    {
+        public string SKU { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
+        public static Form2 instance;
+        public Form2()
+        {
+            InitializeComponent();
+            instance = this;
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            label1.Text = SKU;
+            label2.Text = Name;
+            label3.Text = Convert.ToString(Price);
+        }
+
+        public void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "")
+            {
+                this.ActiveControl = textBox1;
+                return;
+            }
+
+            Form1.instance.aQuantity = Convert.ToDouble(textBox1.Text);
+            Form1.instance.Total = Price * Convert.ToDouble(textBox1.Text);
+            Form1.instance.AddList();
+            Form1.instance.SumPrice();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.instance.listView1.Items[Form1.instance.listView1.FocusedItem.Index].Remove();
+            Form1.instance.label1.Text = Convert.ToString(Form1.instance.sum -= Convert.ToDouble(Form1.instance.listView1.Items[Form1.instance.listView1.FocusedItem.Index].SubItems[4].Text));
+        }
+    }
+}

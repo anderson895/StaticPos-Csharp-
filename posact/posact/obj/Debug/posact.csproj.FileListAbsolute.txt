@@ -1,0 +1,24 @@
+C:\Users\i5 7th\source\repos\posact\posact\bin\Debug\posact.exe.config
+C:\Users\i5 7th\source\repos\posact\posact\bin\Debug\posact.exe
+C:\Users\i5 7th\source\repos\posact\posact\bin\Debug\posact.pdb
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.csproj.AssemblyReference.cache
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.csproj.SuggestedBindingRedirects.cache
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.Form1.resources
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.Form2.resources
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.Properties.Resources.resources
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.csproj.GenerateResource.cache
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.csproj.CoreCompileInputs.cache
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.exe
+C:\Users\i5 7th\source\repos\posact\posact\obj\Debug\posact.pdb
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\bin\Debug\posact.exe.config
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\bin\Debug\posact.exe
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\bin\Debug\posact.pdb
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.csproj.AssemblyReference.cache
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.Form1.resources
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.Form2.resources
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.Properties.Resources.resources
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.csproj.GenerateResource.cache
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.csproj.CoreCompileInputs.cache
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.exe
+C:\Users\Padilla\Downloads\0client\winform\pos-20230805T040131Z-001\pos\posact\posact\obj\Debug\posact.pdb
